@@ -1,0 +1,7 @@
+Retrospektin toteuttamiseen löytyy useita erilaisia tekniikoita. Strenght-Based Retrospektiivi tarkoittaa jokaisen vahvuuksiin perusteltua toimimista. Sen sijaan, että jäsen aloittaa työskentelemään osa-alueella, jota hän ei osaa eikä hänellä ole kokemusta, jaetaan työskentely jokaisen vahvuuksien perusteela. 
+Retrospektiivissä yritetään löytää jokaisen vahvuuksia ja kykykä. Yleisimpiä kysymyksiä ovatkin "Mitkä ammattitaidot tekivät projektista hyvän?". 
+Tässä retrospektiivissä ajatus kiteytyykin tyhmän tasolla ajatukseen: Miten jokainen jäsen voi hyödyntää yksilöllisiä vahvuuksiaan tai tiimin vahvuuksia ongelman ratkaisuun. 
+
+Pomodoro retrospektiivi. 
+
+Pomodoro retrospektiivissa kesitytään yhteen tehtävään. Sen ideana on sulkea pois muut tehtävät ja painottamalla jäsenten keskittymistä tehtäviin yksi kerralaan. Retrospektiivi kestää 25min ajan, jolloin sen sisältö on todella tiivistä, tehokasta ja asiat etenevät hyvin. Lyhyessä ajassa syvällisempiä aktiviteetteja ei käydä lävitse, mutta peruselementit kuten brainstorm, riippuvuuksien kartoitus, piste-äänestys voidaan pitää. Pomodoro retrospektiivi on syytä kokeilla, jos retrospektiivit venyvät pitkiksi,  tehottimiksi ja epäselviksi.  
