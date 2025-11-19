@@ -8,7 +8,7 @@ Register With Valid Username And Password
     Output Should Contain    New user registered
 
 Register With Already Taken Username And Valid Password
-    Input Credentials    Markus    Makke123
+    Input Credentials    kalle    kalle123
     Output Should Contain    Username already exists
 
 Register With Too Short Username And Valid Password
